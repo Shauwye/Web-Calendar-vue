@@ -1,7 +1,7 @@
 import brevo from '@getbrevo/brevo';
 
 const apiInstance = new brevo.TransactionalEmailsApi();
-apiInstance.apiClient.authentications['api-key'].apiKey = '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';
+apiInstance.apiClient.authentications['api-key'].apiKey = '';
 
 export const sendVerificationEmail = async (email, verificationCode) => {
     const sendSmtpEmail = new brevo.SendSmtpEmail();
