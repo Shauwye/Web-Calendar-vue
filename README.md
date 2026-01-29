@@ -1,4 +1,4 @@
-# Web-Calendar-Vue 📅 & Spring Boot API
+# Web-Calendar-Vue & Spring Boot API
 
 A Full-Stack academic solution developed as the **Final Project for the Programming II course**. This project demonstrates the integration of a reactive frontend built with **Vue.js** and a robust RESTful backend powered by **Java Spring Boot**.
 
